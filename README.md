@@ -1,6 +1,11 @@
 Read and delete your messages in Telegram groups.
 
-Exmaple:
+Read my messages:
+
+    ./main.py -i ??? -a ??? -p '???' -c 'Chat' > 'Chat.txt'
+
+
+Read AND DELETE my messages:
 
     ./main.py -i ??? -a ??? -p '???' -c 'Chat' -d > 'Chat.txt'
 
